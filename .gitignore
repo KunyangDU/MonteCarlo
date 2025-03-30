@@ -1,0 +1,5 @@
+figures/
+Manifest.toml
+.DS_Store
+*.jld2
+data
